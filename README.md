@@ -26,7 +26,7 @@ Replacing with a CADDX Ratel 2. Currently waiting for it to arrive.
 I am replacing this with AKK Long range 3W VTX. Currently waiting for it to arrive.
 https://www.aliexpress.com/item/1005006955054449.html
 
-![image](akk vtx.png)
+![image](akk_vtx.png)
 
 ### Reciever
 Originally had a Spektrum SPM4649T / SH703X reciever that refused to go into bind mode.
