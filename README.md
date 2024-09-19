@@ -4,7 +4,7 @@ Build log of my custom FPV drone built off an old Blade Theory XL
 https://www.bladehelis.com/product/theory-xl-5-fpv-bnf-basic/BLH02150.html
 Archive of the above link can be found in this repo. 
 ## Personal Tune
-
+![image](pid_tune_blade_theory.png)
 ## Parts
 
 ### Frame
@@ -37,6 +37,7 @@ https://www.amazon.ca/dp/B0CTBWQ91P
 
 ### ESC
 Stock power delivery board, and 30A BLHeli ESCS running OneShot125 protocol. ESCs are kinda bad, but after a custom tune they were alright. They didn't seem to have the precision of more modern ESCS using DSHOT protocol. I have the parts to replace these, but I'd like to ride these until they die so that I dont' make ewaste.
+![image](motor_settings_blade_theory.png)
 
 ### Motors
-
+Stock 2206 size motors at 2450Kv
