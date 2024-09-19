@@ -36,8 +36,13 @@ Replaced with SpeedyBee ELRS Nano reciever from amazon
 https://www.amazon.ca/dp/B0CTBWQ91P
 
 ### ESC
-Stock power delivery board, and 30A BLHeli ESCS running OneShot125 protocol. ESCs are kinda bad, but after a custom tune they were alright. They didn't seem to have the precision of more modern ESCS using DSHOT protocol. I have the parts to replace these, but I'd like to ride these until they die so that I dont' make ewaste.
+Stock power delivery board, and 30A BLHeli ESCS running OneShot125 protocol.
+ESCs are kinda bad, but after a custom tune they were alright. They didn't seem to have the precision of more modern ESCS using DSHOT protocol. 
+I have the parts to replace these, but I'd like to ride these until they die so that I dont' make ewaste.
 ![image](motor_settings_blade_theory.png)
 
 ### Motors
 Stock 2206 size motors at 2450Kv
+
+### GPS
+Beitan BN-880 GPS unit for return to home failsafe functionality
