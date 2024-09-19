@@ -19,6 +19,8 @@ https://www.aliexpress.com/item/1005005407722952.html
 ### Camera
 Originally had a 700 TVL Spektrum camera. Wow this was such a bad camera. Terrible FOV and no OSD support.
 Replacing with a CADDX Ratel 2. Currently waiting for it to arrive.
+
+
 ![image](caddx_ratel_camera.png)
 
 ### Video Transmitter (VTX) 
