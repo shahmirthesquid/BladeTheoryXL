@@ -24,7 +24,7 @@ Replacing with a CADDX Ratel 2. Currently waiting for it to arrive.
 ![image](caddx_ratel_camera.png)
 
 ### Video Transmitter (VTX) 
-200mw VTX is actually quite nice. Range is very good for 200mw. Unfortunately you have to physically turn on the VTX button every flight. 
+Stock 200mw Spektrum VTX is actually quite nice. Range is very good for 200mw. Unfortunately you have to physically turn on the VTX button every flight. 
 I am replacing this with AKK Long range 3W VTX. Currently waiting for it to arrive.
 https://www.aliexpress.com/item/1005006955054449.html
 
