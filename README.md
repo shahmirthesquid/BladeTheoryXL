@@ -19,10 +19,15 @@ https://www.aliexpress.com/item/1005005407722952.html
 ### Camera
 Originally had a 700 TVL Spektrum camera. Wow this was such a bad camera. Terrible FOV and no OSD support.
 Replacing with a CADDX Ratel 2. Currently waiting for it to arrive.
+![image](caddx ratel camera.png)
+
 ### Video Transmitter (VTX) 
 200mw VTX is actually quite nice. Range is very good for 200mw. Unfortunately you have to physically turn on the VTX button every flight. 
 I am replacing this with AKK Long range 3W VTX. Currently waiting for it to arrive.
 https://www.aliexpress.com/item/1005006955054449.html
+
+![image](akk vtx.png)
+
 ### Reciever
 Originally had a Spektrum SPM4649T / SH703X reciever that refused to go into bind mode.
 Replaced with SpeedyBee ELRS Nano reciever from amazon
