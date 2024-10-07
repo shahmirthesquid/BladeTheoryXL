@@ -62,3 +62,18 @@ Stock 2206 size motors at 2450Kv
 
 ### GPS
 Beitan BN-880 GPS unit for return to home failsafe functionality
+
+Compass Setup:
+```
+resource SERIAL_TX 3 NONE
+resource SERIAL_RX 3 NONE
+resource I2C_SCL 2 B10
+resource I2C_SDA 2 B11
+set mag_bustype = I2C
+set mag_i2c_device = 2
+set mag_i2c_address = 0
+set mag_spi_device = 0
+set mag_hardware = AUTO
+save
+```
+
