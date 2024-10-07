@@ -49,7 +49,7 @@ Replaced with SpeedyBee ELRS Nano reciever from amazon
 https://www.amazon.ca/dp/B0CTBWQ91P
 
 ### ESC
-Stock power delivery board, and 30A BLHeli ESCS running OneShot125 protocol.
+Stock power delivery board, and 30A BLHeli ESCS (BLH02102) running OneShot125 protocol.
 
 ESCs are kinda bad, but after a custom tune they were alright. They didn't seem to have the precision of more modern ESCS using DSHOT protocol. 
 
