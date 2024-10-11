@@ -33,7 +33,7 @@ Battery: 4S 1600mAh Lipo(10m Flight time) or 3S 4200mAh Molicel P42A pack (?m Fl
 ## Personal Tune and Config
 
 ![image](pid_tune_blade_theory.png)
-![image](betaflight_configuration_top.png)
+![image](betaflight configuration top.png)
 ![image](betaflight_ports.png)
 
 ## Parts
