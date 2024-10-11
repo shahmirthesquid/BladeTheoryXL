@@ -33,8 +33,8 @@ Battery: 4S 1600mAh Lipo(10m Flight time) or 3S 4200mAh Molicel P42A pack (?m Fl
 ## Personal Tune and Config
 
 ![image](pid_tune_blade_theory.png)
-![image](betaflight_configuration_top.png)
-![image](betaflight_ports.png)
+![image](betaflight%20configuration%20top.png)
+![image](betaflight%20ports.png)
 
 ## Parts
 
@@ -105,8 +105,8 @@ ESCs are kinda bad, but after a custom tune they were alright. They didn't seem 
 I have the parts to replace these, but I'd like to ride these until they die so that I dont' make ewaste.
 
 ![image](motor_settings_blade_theory.png)
-![image](How_I_fixed_BLH02102_esc.png)
-![image](oneshot_calibration.png)
+![image](How%20I%20fixed%20BLH02102%20esc.png)
+![image](oneshot%20calibration.png)
 
 ### Motors
 Stock 2206 size motors at 2450Kv
@@ -136,8 +136,8 @@ https://www.thingiverse.com/thing:6790557
 
 ### GPS Mount 3D Print
 
-![image](Custom_3D_Prints/GPS_mount_BN880.png)
-![image](Custom_3D_Prints/GPS_mount_BN880_top_view.png)
+![image](Custom%203D%20Prints/GPS%20mount%20BN880.png)
+![image](Custom%203D%20Prints/GPS%20mount%20BN880%20top%20view.png)
 ![image](20241007_142748.jpg)
 
 
