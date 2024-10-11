@@ -80,7 +80,7 @@ vtxtable powervalues 0 1 2 3 4
 vtxtable powerlabels 250 500 1000 2000 3000
 ```
 
-VTX Switch Based on Aux Channel:
+VTX Switch Based on Aux Channel 4:
 ```
 vtx 0 3 0 0 1 1175 1375
 vtx 1 3 0 0 2 1375 1525
@@ -88,7 +88,7 @@ vtx 2 3 0 0 3 1525 1650
 vtx 3 3 0 0 5 1650 1850
 ```
 
-This configuration changes VTX power based on the position of AUX channel 4. This skips the 2 watt setting on the VTX as I don't want to waste buttons to map out every power level. These buttons can then be reserved for future functionality'
+This configuration changes VTX power based on the position of AUX channel 4. This skips the 2 watt setting on the VTX as I don't want to waste buttons to map out every power level. These buttons can then be reserved for future functionality.
 
 ### Reciever
 Originally had a Spektrum SPM4649T / SH703X reciever that refused to go into bind mode.
