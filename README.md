@@ -13,12 +13,12 @@ Archive of the above link can be found in this repo.
 Frame: Blade Theory XL
 Motors:Blade BLHA1023 Thrust Series 2206-2450Kv
 ESC: 4 x Blade BLH02102 (FlyColor Fairy 30A)
-Flight Controller: OMNIBUS-F4V3SD w/ ICM42688p
+Flight Controller: OMNIBUSF4SD w/ ICM42688P Gyro
 VTX: AKK Ultra Long Range 3 Watt
 Camera: Caddx Ratel 2
 RX: SpeedyBee ELRS Nano
 GPS: Beitan BN-880
-Propellers: Ethix S2 Watermelon
+Propellers: Ethix S3 Watermelon
 Battery: 4S 1600mAh Lipo(10m Flight time) or 3S 4200mAh Molicel P42A pack (?m Flight time)
 
 ## Personal Tune and Config
@@ -96,6 +96,8 @@ ESCs are kinda bad, but after a custom tune they were alright. They didn't seem 
 I have the parts to replace these, but I'd like to ride these until they die so that I dont' make ewaste.
 
 ![image](motor_settings_blade_theory.png)
+![image](How_I_fixed_BLH02102_esc.png)
+![image](oneshot_calibration.png)
 
 ### Motors
 Stock 2206 size motors at 2450Kv
@@ -119,5 +121,13 @@ save
 
 ### VTX Mount 3D Print
 
+![image](Custom_3D_Prints/antenna_mount.png)
+
+https://www.thingiverse.com/thing:6790557
+
 ### GPS Mount 3D Print
 
+![image](Custom_3D_Prints/GPS_mount_BN880.png)
+![image](Custom_3D_Prints/GPS_mount_BN880_top_view.png)
+
+https://www.thingiverse.com/thing:6790582
