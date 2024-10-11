@@ -130,7 +130,7 @@ save
 
 ### VTX Mount 3D Print
 
-![image](Custom_3D_Prints/antenna_mount.png)
+![image](Custom%203D%20Prints/antenna%20mount.png)
 
 https://www.thingiverse.com/thing:6790557
 
