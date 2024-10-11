@@ -129,5 +129,7 @@ https://www.thingiverse.com/thing:6790557
 
 ![image](Custom_3D_Prints/GPS_mount_BN880.png)
 ![image](Custom_3D_Prints/GPS_mount_BN880_top_view.png)
+![image](20241007_142748.jpg)
+
 
 https://www.thingiverse.com/thing:6790582
