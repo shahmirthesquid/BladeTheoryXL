@@ -6,12 +6,26 @@ Build log of my custom FPV drone built off an old Blade Theory XL
 
 https://www.bladehelis.com/product/theory-xl-5-fpv-bnf-basic/BLH02150.html
 
-Archive of the above link can be found in this repo. 
+Archive of the above link can be found in this repo.
 
+## Quick Overview
 
-## Personal Tune
+Frame: Blade Theory XL
+Motors:Blade BLHA1023 Thrust Series 2206-2450Kv
+ESC: 4 x Blade BLH02102 (FlyColor Fairy 30A)
+Flight Controller: OMNIBUS-F4V3SD w/ ICM42688p
+VTX: AKK Ultra Long Range 3 Watt
+Camera: Caddx Ratel 2
+RX: SpeedyBee ELRS Nano
+GPS: Beitan BN-880
+Propellers: Ethix S2 Watermelon
+Battery: 4S 1600mAh Lipo(10m Flight time) or 3S 4200mAh Molicel P42A pack (?m Flight time)
+
+## Personal Tune and Config
 
 ![image](pid_tune_blade_theory.png)
+![image](betaflight_configuration_top.png)
+![image](betaflight_ports.png)
 
 ## Parts
 
@@ -42,6 +56,8 @@ https://www.aliexpress.com/item/1005006955054449.html
 ![image](akk_vtx.png)
 
 
+The AKK VTX seems really good. I put silicone conformal coating on it, and used SoftSerial to turn Motor5 pad into TX for the SmartAudio connection. I setup the VTX table, but had to manually set 5 bands in the table first. I then transferred the VTX switch settings from my Eachine Cvatar to be able to change VTX power using the 6 button switch at the top of my Jumper Tpro radio. 
+
 Ultra Long Range VTX Table:
 ```
 vtxtable channels 8
@@ -55,6 +71,15 @@ vtxtable powervalues 0 1 2 3 4
 vtxtable powerlabels 250 500 1000 2000 3000
 ```
 
+VTX Switch Based on Aux Channel:
+```
+vtx 0 3 0 0 1 1175 1375
+vtx 1 3 0 0 2 1375 1525
+vtx 2 3 0 0 3 1525 1650
+vtx 3 3 0 0 5 1650 1850
+```
+
+This configuration changes VTX power based on the position of AUX channel 4. This skips the 2 watt setting on the VTX as I don't want to waste buttons to map out every power level. These buttons can then be reserved for future functionality'
 
 ### Reciever
 Originally had a Spektrum SPM4649T / SH703X reciever that refused to go into bind mode.
@@ -91,4 +116,8 @@ set mag_spi_device = 0
 set mag_hardware = AUTO
 save
 ```
+
+### VTX Mount 3D Print
+
+### GPS Mount 3D Print
 
