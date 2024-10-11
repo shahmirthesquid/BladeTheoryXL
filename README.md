@@ -105,7 +105,7 @@ ESCs are kinda bad, but after a custom tune they were alright. They didn't seem 
 I have the parts to replace these, but I'd like to ride these until they die so that I don't make ewaste.
 
 ![image](motor_settings_blade_theory.png)
-![image](How%20I%20fixed%20BLH02102%20esc.png)
+![image](How_I_fixed_BLH02102_esc.png)
 ![image](oneshot%20calibration.png)
 
 ### Motors
