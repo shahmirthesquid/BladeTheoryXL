@@ -102,7 +102,7 @@ Stock power delivery board, and 30A BLHeli ESCS (BLH02102) running OneShot125 pr
 
 ESCs are kinda bad, but after a custom tune they were alright. They didn't seem to have the precision of more modern ESCS using DSHOT protocol. 
 
-I have the parts to replace these, but I'd like to ride these until they die so that I dont' make ewaste.
+I have the parts to replace these, but I'd like to ride these until they die so that I don't make ewaste.
 
 ![image](motor_settings_blade_theory.png)
 ![image](How%20I%20fixed%20BLH02102%20esc.png)
