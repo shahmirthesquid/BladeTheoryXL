@@ -3,6 +3,10 @@
 Build log of my custom FPV drone built off an old Blade Theory XL
 ![image](20240919_092109.jpg)
 
+![image](20241007_142748.jpg)
+
+
+
 
 https://www.bladehelis.com/product/theory-xl-5-fpv-bnf-basic/BLH02150.html
 
